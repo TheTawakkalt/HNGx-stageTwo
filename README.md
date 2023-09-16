@@ -1,9 +1,9 @@
-#  ***HNG FRONTEND TASK 2***
+#  ***HNGx FRONTEND TASK 2***
 ## Language and frameworks
 - REACT
 
 ## Links
-- [Home](https://deux-ol4.netlify.app/)
+- [Home](https://tawakkaltt-task-2.netlify.app/)
   
 ## Installation instructions
 - Download the code from github (Main branch)
@@ -17,4 +17,4 @@
 
 ***HAPPY CODING***
 :grin:
-:rocket: :rocket: :rocket: :rocket: :rocket: :rocket:
+:rocket: :rocket: :rocket: :rocket: :rocket:
